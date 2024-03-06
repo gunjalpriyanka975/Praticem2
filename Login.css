@@ -1,0 +1,25 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.mdiv{
+	height: 100vh;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.login-heading{
+	margin-top: 80px;
+}
+.login-heading h1{
+	font-size: 100px;
+	color: aliceblue;
+	font-family: Arial black;
+}
+/* animista 
